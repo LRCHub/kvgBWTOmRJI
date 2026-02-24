@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "Mood Indigo",
+  "base_artist": "CHEEZE",
+  "createdAt": "2026-02-24T04:06:30.619678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mood Indigo",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/01_Mood_Indigo_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mood Indigo",
+      "artist": "Duke Ellington and His Famous Orchestra",
+      "has_synced": true,
+      "path": "select/02_Mood_Indigo_Duke_Ellington_and_His_Famous_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mood Indigo",
+      "artist": "Duke Ellington & His Famous Orchestra",
+      "has_synced": true,
+      "path": "select/03_Mood_Indigo_Duke_Ellington_&_His_Famous_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mood Indigo",
+      "artist": "Thelonious Monk",
+      "has_synced": false,
+      "path": "select/04_Mood_Indigo_Thelonious_Monk.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mood Indigo (2013 Remastered Version)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/05_Mood_Indigo_(2013_Remastered_Version)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mood Indigo (Remastered)",
+      "artist": "Thelonious Monk",
+      "has_synced": false,
+      "path": "select/06_Mood_Indigo_(Remastered)_Thelonious_Monk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mood Indigo",
+      "artist": "Annie Lennox",
+      "has_synced": true,
+      "path": "select/07_Mood_Indigo_Annie_Lennox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mood Indigo (Remastered)",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/08_Mood_Indigo_(Remastered)_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mood Indigo",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/09_Mood_Indigo_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mood Indigo (Remastered)",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/10_Mood_Indigo_(Remastered)_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mood (feat. iann dior)",
+      "artist": "24kGoldn feat. iann dior",
+      "has_synced": true,
+      "path": "select/11_Mood_(feat._iann_dior)_24kGoldn_feat._iann_dior.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mood Ring",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/12_Mood_Ring_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Bad Mood",
+      "artist": "Esther Rose",
+      "has_synced": true,
+      "path": "select/13_My_Bad_Mood_Esther_Rose.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mood Lamp",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/14_Mood_Lamp_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mood Lamp",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/15_Mood_Lamp_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mood Swings",
+      "artist": "Yung Bans feat. Jban$2Turnt",
+      "has_synced": true,
+      "path": "select/16_Mood_Swings_Yung_Bans_feat._Jban$2Turnt.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mood Swings (feat. Jban$2Turnt)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/17_Mood_Swings_(feat._Jban$2Turnt)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mood Ring (feat. Ravenna Golden)",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/18_Mood_Ring_(feat._Ravenna_Golden)_Liz.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Mood Swing",
+      "artist": "Luscious Jackson",
+      "has_synced": true,
+      "path": "select/19_Mood_Swing_Luscious_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mood to Burn Bridges",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/20_Mood_to_Burn_Bridges_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dangerous Mood",
+      "artist": "B.B. King feat. Joe Cocker",
+      "has_synced": true,
+      "path": "select/21_Dangerous_Mood_B.B._King_feat._Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dangerous Mood (With Joe Cocker)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/22_Dangerous_Mood_(With_Joe_Cocker)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Ram It Down (feat. Mood Killer, Lil Mariko & Lil Texas)",
+      "artist": "Dorian Electra feat. Mood Killer, Lil Mariko & Lil Texas",
+      "has_synced": true,
+      "path": "select/23_Ram_It_Down_(feat._Mood_Killer,_Lil_Mariko_&_Lil_Texas)_Dorian_Electra_feat._Mood_Killer,_Lil_Mariko_&_Lil_Texas.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Ram It Down (feat. Mood Killer, Lil Mariko & Lil Texas)",
+      "artist": "Dorian Electra",
+      "has_synced": true,
+      "path": "select/24_Ram_It_Down_(feat._Mood_Killer,_Lil_Mariko_&_Lil_Texas)_Dorian_Electra.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "FRET (feat. beverly hensel, putochinomaricón, mood killer, & rui ho)",
+      "artist": "recovery girl",
+      "has_synced": false,
+      "path": "select/25_FRET_(feat._beverly_hensel,_putochinomaricón,_mood_killer,_&_rui_ho)_recovery_girl.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Circle In the Sand (Seaside Mood Groove Mix)",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/26_Circle_In_the_Sand_(Seaside_Mood_Groove_Mix)_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Devil Mood",
+      "artist": "Smoke City",
+      "has_synced": true,
+      "path": "select/27_Devil_Mood_Smoke_City.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Mood Swings",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/28_Mood_Swings_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Mood Swings",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/29_Mood_Swings_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mood Indigo",
+      "artist": "チーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Mood_Indigo_チーズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Mood Indigo",
+      "artist": "チーズ",
+      "has_synced": false,
+      "path": "select/pl_02_Mood_Indigo_チーズ.txt"
+    }
+  ]
+}
